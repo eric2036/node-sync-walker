@@ -1,0 +1,24 @@
+{
+  "name": "node-sync-walker",
+  "version": "0.1.0",
+  "description": "Walks folders and subfolders. Does it sync.",
+  "main": "walker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mgonto/node-sync-walker"
+  },
+  "keywords": [
+    "walker",
+    "folder",
+    "sync"
+  ],
+  "author": "Martin Gontovnikas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgonto/node-sync-walker/issues"
+  },
+  "homepage": "https://github.com/mgonto/node-sync-walker"
+}
